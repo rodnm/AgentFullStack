@@ -1,0 +1,20 @@
+# Entornos Virtuales
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Archivos de Entorno (API Keys)
+.env
+
+# Archivos de Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Output de Tareas
+astro-todos/
+doc/
+docs/

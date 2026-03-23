@@ -1,0 +1,10 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TodoList from '../components/TodoList.jsx';
+---
+
+<Layout title="Lista de Tareas Windows 95">
+  <main class="flex items-center justify-center min-h-screen">
+    <TodoList client:load />
+  </main>
+</Layout>
