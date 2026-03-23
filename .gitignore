@@ -14,7 +14,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Output de Tareas
+# Archivos de Pruebas del Agente
 astro-todos/
-doc/
-docs/
+astro-todos-ui/
