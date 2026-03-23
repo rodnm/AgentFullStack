@@ -1,8 +1,10 @@
 # 🤖 Full Stack Code Agent
 
-![Agent Interface](docs/agent_ui.png) 
+![Agent Diagram](docs/agent-fullstack-diagram.png) 
 
 This repository contains the complete architecture for an **Asynchronous Code Agent** programmed in Python. It is capable of interacting through a Chat interface (Gradio), receiving commands in natural language, and programming complete Full Stack projects *autonomously* using Astro, React, and TailwindCSS as its local system tools (I/O).
+
+![Agent Interface](docs/agent_ui.png) 
 
 ## 🚀 Key Features (The Context Problem)
 
